@@ -1,6 +1,6 @@
 {
   "name": "docs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The docs with gto22834",
   "main": "index.js",
   "scripts": {
