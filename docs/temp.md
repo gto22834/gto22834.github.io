@@ -71,3 +71,13 @@ RSSHub 研究
 # Icomoon
 
 使用 icon 時候記得要將 svg 顏色清除
+
+# vscode eslint 修復
+
+```
+"eslint.workingDirectories": [
+        { "mode": "auto" }
+    ],
+```
+
+https://jeffwen0105.com/linux-ssh-tunneling/

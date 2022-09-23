@@ -55,7 +55,7 @@ Raspberry pi 中文稱作樹莓派，是基於 `Linux` 的單晶片電腦，由�
 
 ## 玩复古游戏
 
-如果你和我一樣，搞 `raspberry pi` 是為了玩復古遊戲，建議選擇的 OS 有兩種 `recalBox` 及 `retropie` 兩種選擇，如果不是程序員，建議可以使用 `recalBox` 設定的東西比較少，且依據官網教程下載並匯入 `ROM` 後就可以開始享受遊戲帶來的樂趣了。 
+如果你和我一樣，搞 `raspberry pi` 是為了玩復古遊戲，建議選擇的 OS 有兩種 `recalBox` 及 `retropie` 兩種選擇，如果不是程序員，建議可以使用 `recalBox` 設定的東西比較少，且依據官網教程下載並匯入 `ROM` 後就可以開始享受遊戲帶來的樂趣了。 
 
 ### RecalBox
 

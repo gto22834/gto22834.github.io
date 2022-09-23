@@ -5,7 +5,7 @@
 [referece](https://git-scm.com/book/zh-tw/v1/%E4%BC%BA%E6%9C%8D%E5%99%A8%E4%B8%8A%E7%9A%84-Git-%E7%94%9F%E6%88%90-SSH-%E5%85%AC%E9%96%8B%E9%87%91%E9%91%B0)
 
 ```sh
-ssh-keygen -t rsa -b 4096
+ssh-keygen -t rsa -b {port}
 # input password (options)
 ```
 -t: 產生的 ssh key 類型  

@@ -1,6 +1,5 @@
 # Communication tools
 
-
 https://www.chanty.com/blog/using-slack-alternatives/
 
 ## Flock

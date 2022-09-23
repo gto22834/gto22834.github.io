@@ -2,9 +2,18 @@
   - [Git](/note/git.md)
   - [Lerna](/lerna/index.md)
 
+- [Marketing](./marketing/index.md)
+  - [GTM](./marketing/GTM.md)
+
 - Framework:
   - [Phaser](/phaser/index.md)
     - [Game object](/phaser/game-object.md)
+
+- Back-end
+  - [Command](/server/command.md)
+  - [Shell](/server/shell.md)
+  - [ssh](/server/ssh.md)
+  - [Build server](/server/build.md)
 
 - For PM:
   - [XD](/production-manager/xd.md)

@@ -14,11 +14,11 @@
     - Operating system (OS) 我使用的是 `Ubuntu`
 
 2. 選定好 VM 建立之後會需要設定 SSH
-    - 建立 [SSH key](./note/ssh.md)
+    - 建立 [SSH key](/server/ssh.md)
         ```sh
-        ssh-keygen -t rsa -b 4096
+        ssh-keygen -t rsa -b {port}
         ```
-    - 將生成的 `.pub` 上傳
+    - 將生成的 `.pub` 上傳
 
 3. 設定網域
     - 設定好 SSH 後會進入 `Compute > Instances > Instance Detail` 頁面
@@ -37,7 +37,7 @@
     # 更新 apt-get (Ubuntu 管理套件)
     sudo apt-get update
 
-    # 我有嘗試按照官網的步驟，但是沒安裝成功
+    # 我有嘗試按照官網的步驟，但是沒安裝成功
     # 具體可能要研究一下。。。
     sudo apt install docker.io
 
